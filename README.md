@@ -1,7 +1,11 @@
 # ai-assisted-resume-matcher
+
 Job Hunt Assistant: AI-Powered Resume Matcher and Interview Insights Tool
+
 Overview: This skill helps job seekers find relevant director and manager level positions, compare them against your resume, identify gaps, and research what actually worked for successful candidates at those companies.
+
 Core Features:
+
 One: Job Discovery. Searches multiple job boards for director and manager openings in your target industry or location.
 Two: Resume Analysis. Parses your uploaded resume to extract skills, experience, certifications, and education.
 Three: Gap Analysis. Compares job requirements against your resume and flags missing or weak criteria that are crucial for the role.
